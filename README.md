@@ -1,16 +1,27 @@
-## Hi there 👋
+# エムエッチ | Developer
 
-<!--
-**AyeshaHaider01/AyeshaHaider01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Creating things. Exploring technology. Building ideas.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python Developer
+- Game Development
+- Exploring AI & Robotics
+- Creator at エムエッチ Studio
+
+## Projects
+
+### YouTube Channel Finder
+
+## Technologies
+
+- Python
+- C#
+- Unity 6
+- Construct 2
+- blender
+- Fl studio
+- Sfxr
+- And moreeee
+
+**エムエッチ creates things.**
